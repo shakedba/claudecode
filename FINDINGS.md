@@ -8,6 +8,28 @@ wide is "4E"). MSRP is **~$155 USD / £145 GBP**.
 > [`deal-finder`](./deal-finder) engine in this repo re-checks these on a
 > schedule. Always confirm the **4E width + EU43** in the cart before paying.
 
+## Use these existing tools first (don't reinvent discovery)
+
+Before relying on the custom engine, these off-the-shelf services already do
+price discovery/alerting well. Use them for finding the price; use the
+[`deal-finder`](./deal-finder) engine for the part they *don't* do — the **Israel
+landed cost** (VAT + customs).
+
+- **ShoesTrace AI** — https://shoestrace.com — price tracker + AI search across
+  17,000+ shoes. Search "Brooks Adrenaline GTS 25" for a live price ranking. Free.
+- **Running Shoe Score** — https://runningshoescore.com — running-shoe price
+  comparison + drop alerts, updated daily. Free.
+- **CamelCamelCamel** — https://camelcamelcamel.com — free Amazon price history +
+  alerts; pair with **Amazon Global** (ships the GTS 25 to Israel, customs prepaid).
+- **Keepa** — https://keepa.com — Amazon tracker across 11 marketplaces (good for
+  catching the 4E width on Amazon UK/DE). ~$20/mo for premium.
+- **changedetection.io** — https://changedetection.io — 30k★ open-source,
+  self-hosted page-change monitor with Playwright + JSON price extraction. Point it
+  at the bot-protected 4E retailer pages below if you want private monitoring.
+
+> Note: none of these compute the all-in delivered-to-Israel price including 18%
+> VAT and customs tiers — that's exactly what `deal-finder` adds on top.
+
 ## Ranked routes to Israel
 
 ### 1. SportsShoes.com (UK) — best "ships directly to Israel" option

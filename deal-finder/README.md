@@ -9,6 +9,15 @@ VAT/customs), ranked cheapest-first. Built to monitor:
 It runs on the Python 3.11 standard library only (no `pip install`), and can run
 daily in GitHub Actions to alert you on a price drop.
 
+> **Use free tools for discovery first.** Services like
+> [ShoesTrace](https://shoestrace.com), [Running Shoe Score](https://runningshoescore.com),
+> [CamelCamelCamel](https://camelcamelcamel.com), and the self-hosted
+> [changedetection.io](https://changedetection.io) already track sticker prices
+> well. This engine exists for the one thing they **don't** do: compute the
+> all-in **Israel landed cost** (item + shipping + 18% VAT + customs tiers) so
+> you can compare retailers on what you'll actually pay at the door. See
+> [`../FINDINGS.md`](../FINDINGS.md).
+
 ## Why it works the way it does
 
 Most shoe retailers embed [schema.org](https://schema.org/Product) **JSON-LD**
