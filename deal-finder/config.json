@@ -53,13 +53,31 @@
       "notes": "Ships outside EU to Israel; import duties/VAT payable on arrival. Confirm 4E width + EU43 in cart (EU stock often only up to 2E)."
     },
     {
+      "id": "profeet_uk",
+      "name": "Profeet.co.uk (UK)",
+      "currency": "GBP",
+      "ships_to_israel": false,
+      "shipping_cost": 22.0,
+      "url": "https://shop.profeet.co.uk/footwear/wide-fit-running-shoes/brooks-adrenaline-gts-25-4e-wide-mens-running-shoes--black__866",
+      "notes": "Dedicated 4E Wide page. Confirm Israel shipping (may be UK/EU only -> forwarder); shipping_cost assumes a forwarder leg."
+    },
+    {
+      "id": "amazon_uk",
+      "name": "Amazon.co.uk (Global)",
+      "currency": "GBP",
+      "ships_to_israel": true,
+      "shipping_cost": 14.0,
+      "url": "https://www.amazon.co.uk/s?k=Brooks+Adrenaline+GTS+25+4E+extra+wide",
+      "notes": "Only Amazon marketplace likely to list 4E (UK uses the 4E label). AmazonGlobal ships to Israel (~£5.79/kg + £4.39), customs prepaid. 4E is often 3rd-party only - verify the 4E + UK8.5/EU43 variant before buying."
+    },
+    {
       "id": "amazon_de",
       "name": "Amazon.de (Europe Global)",
       "currency": "EUR",
       "ships_to_israel": true,
       "shipping_cost": 15.0,
       "url": "https://www.amazon.de/s?k=Brooks+Adrenaline+GTS+25",
-      "notes": "AmazonGlobal ships Sports/footwear to Israel with prepaid Import Fees Deposit (customs handled). BUT EU Amazon usually stocks Medium/2E, rarely 4E - verify the 4E variant is listed + 'ships to Israel'."
+      "notes": "AmazonGlobal ships to Israel with prepaid Import Fees Deposit. BUT mainland-EU Amazon does NOT carry 4E (only Medium/2E) - kept only as a long shot; use amazon_uk instead for 4E."
     },
     {
       "id": "irun_fr",

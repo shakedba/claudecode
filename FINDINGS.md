@@ -54,15 +54,24 @@ the **4E + EU43** variant is actually in the cart before paying.
 - Store: https://www.sportsshoes.com/store/brooks-adrenaline
 - Tax policy: https://support.sportsshoes.com/hc/en-gb/articles/5026410046098-International-Delivery-Taxes
 
-### 3. Amazon.de / Amazon Europe — taxes prepaid, but 4E unlikely
-- **AmazonGlobal** ships Sports & Outdoors (footwear) from **Amazon.de** to
-  Israel with an **Import Fees Deposit** collected at checkout — customs handled,
-  no surprise bill. Amazon has also reinstated free shipping to Israel above a
-  threshold.
-- Catch: EU Amazon typically lists only Medium/2E for this model. Search and
-  filter for the 4E variant and check the **"Deliver to Israel"** box shows it
-  eligible. If only 2E appears, use option 1/2 instead.
-- https://www.amazon.de/s?k=Brooks+Adrenaline+GTS+25
+### 3. Amazon — only Amazon.co.uk is worth trying for 4E
+**4E only — 2E is not acceptable.** Checked across marketplaces:
+- **Amazon.co.uk** — the *only* Amazon likely to list **4E** (the UK uses the 4E
+  label). Ships to Israel via **AmazonGlobal** (~£5.79/kg + £4.39, customs
+  prepaid). But Brooks 4E on Amazon is usually **third-party / sporadic** — verify
+  the **4E + UK 8.5 / EU 43** variant is actually listed before relying on it.
+  https://www.amazon.co.uk/s?k=Brooks+Adrenaline+GTS+25+4E+extra+wide
+- **Amazon.de / mainland-EU Amazon** — does **not** carry 4E (Medium/2E only). Skip.
+- **Amazon.com (US)** — 4E appears only via 3rd-party sellers; plus you had US
+  shipping issues. Fallback only.
+
+> Verdict: no Amazon marketplace *reliably* stocks the exact 4E/EU43. Amazon.co.uk
+> is the one to check; otherwise use the UK specialists (options 1, 2, and below).
+
+### 3b. Other reliable UK 4E specialists (£145)
+- **Profeet.co.uk** — dedicated "Adrenaline GTS 25 4E Wide" page (confirm Israel
+  shipping; may need a forwarder): https://shop.profeet.co.uk/footwear/wide-fit-running-shoes/brooks-adrenaline-gts-25-4e-wide-mens-running-shoes--black__866
+- **Brooks UK official** — lists 4E, UK 6–13: https://www.brooksrunning.com/en_gb/mens/road-running-shoes/adrenaline-gts-25/110454.html
 
 ### 4. EU mainland stores (i-Run.fr, Keller Sports) — need a forwarder
 These big EU running stores **don't ship directly to Israel**, so route via a
