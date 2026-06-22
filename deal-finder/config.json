@@ -35,13 +35,49 @@
 
   "retailers": [
     {
+      "id": "runandbecome_uk",
+      "name": "Run and Become (UK)",
+      "currency": "GBP",
+      "ships_to_israel": true,
+      "shipping_cost": 20.0,
+      "url": "https://www.runandbecome.com/item/Brooks/Adrenaline-GTS-25-4E-Extra-Wide/84V4",
+      "notes": "Has the explicit 4E Extra Wide SKU. International express shipping; confirm Israel + UK8.5/EU43 at checkout. Duties payable on arrival."
+    },
+    {
       "id": "sportsshoes_uk",
       "name": "SportsShoes.com (UK)",
       "currency": "GBP",
       "ships_to_israel": true,
       "shipping_cost": 12.0,
       "url": "https://www.sportsshoes.com/store/brooks-adrenaline",
-      "notes": "Ships outside EU to Israel; import duties/VAT payable on arrival. Confirm 4E width + EU43 in cart."
+      "notes": "Ships outside EU to Israel; import duties/VAT payable on arrival. Confirm 4E width + EU43 in cart (EU stock often only up to 2E)."
+    },
+    {
+      "id": "amazon_de",
+      "name": "Amazon.de (Europe Global)",
+      "currency": "EUR",
+      "ships_to_israel": true,
+      "shipping_cost": 15.0,
+      "url": "https://www.amazon.de/s?k=Brooks+Adrenaline+GTS+25",
+      "notes": "AmazonGlobal ships Sports/footwear to Israel with prepaid Import Fees Deposit (customs handled). BUT EU Amazon usually stocks Medium/2E, rarely 4E - verify the 4E variant is listed + 'ships to Israel'."
+    },
+    {
+      "id": "irun_fr",
+      "name": "i-Run.fr (France)",
+      "currency": "EUR",
+      "ships_to_israel": false,
+      "shipping_cost": 30.0,
+      "url": "https://www.i-run.fr/chaussures_running/brooks-adrenaline-gts-25,sku.html",
+      "notes": "Large FR running store. No direct Israel shipping -> use a forwarder (Easy-Delivery FR address). shipping_cost includes the forwarder leg."
+    },
+    {
+      "id": "keller_sports_de",
+      "name": "Keller Sports (Germany)",
+      "currency": "EUR",
+      "ships_to_israel": false,
+      "shipping_cost": 30.0,
+      "url": "https://www.keller-sports.com/c/brooks/adrenaline-gts/",
+      "notes": "DE running store. No direct Israel shipping -> forwarder (ColisExpat / ShipGerman). shipping_cost includes the forwarder leg."
     },
     {
       "id": "amazon_us",
@@ -50,34 +86,7 @@
       "ships_to_israel": true,
       "shipping_cost": 25.0,
       "url": "https://www.amazon.com/Brooks-Adrenaline-Supportive-Running-Walking/dp/B0DZ425CX2",
-      "notes": "Amazon Global ships many Brooks listings to Israel with an Import Fees Deposit collected at checkout (customs handled for you)."
-    },
-    {
-      "id": "brooks_us",
-      "name": "Brooks Running (US, official)",
-      "currency": "USD",
-      "ships_to_israel": false,
-      "shipping_cost": 0.0,
-      "url": "https://www.brooksrunning.com/en_us/mens/shoes/road-running-shoes/adrenaline-gts-25/110454.html",
-      "notes": "US-only shipping; wide/extra-wide often sold out. Use via a freight forwarder if buying here."
-    },
-    {
-      "id": "pr_runandwalk",
-      "name": "=PR= Run & Walk (US)",
-      "currency": "USD",
-      "ships_to_israel": false,
-      "shipping_cost": 0.0,
-      "url": "https://prrunandwalk.com/products/mens-brooks-adrenaline-gts-25-extra-wide-4e",
-      "notes": "Carries the exact 4E Extra Wide. US-only -> pair with a forwarder (e.g. Shippn, USendHome) to reach Israel."
-    },
-    {
-      "id": "werunwild",
-      "name": "We Run Wild (US)",
-      "currency": "USD",
-      "ships_to_israel": false,
-      "shipping_cost": 0.0,
-      "url": "https://www.werunwild.com/product/5695645/brooks/mens-adrenaline-gts-25-extra-wide-4e",
-      "notes": "Stocks 4E Extra Wide colorways. US-only -> forwarder needed."
+      "notes": "Fallback (you reported US shipping issues). Amazon Global ships many Brooks listings to Israel with an Import Fees Deposit collected at checkout."
     }
   ],
 
