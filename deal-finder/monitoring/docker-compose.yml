@@ -1,0 +1,38 @@
+# changedetection.io stock + shipping-to-Israel watcher for the Brooks
+# Adrenaline GTS 25 4E. Run on any always-on machine / cheap VPS:
+#
+#   cd deal-finder/monitoring && docker compose up -d
+#   open http://localhost:5000   (add the watches from watches.md)
+#
+# The 'sockpuppetbrowser' service is a real headless Chrome so the watcher can
+# load JavaScript-heavy, bot-protected retail pages (Amazon/eBay) that plain
+# HTTP fetches 403. Set a notification URL in the UI (Settings > Notifications)
+# e.g. a Telegram/Slack/Discord/email Apprise URL.
+
+services:
+  changedetection:
+    image: ghcr.io/dgtlmoon/changedetection.io:latest
+    container_name: changedetection
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./datastore:/datastore
+    environment:
+      - BASE_URL=http://localhost:5000
+      - PLAYWRIGHT_DRIVER_URL=ws://sockpuppetbrowser:3000
+      - FETCH_WORKERS=4
+      - MINIMUM_SECONDS_RECHECK_TIME=60
+    depends_on:
+      - sockpuppetbrowser
+
+  sockpuppetbrowser:
+    image: dgtlmoon/sockpuppetbrowser:latest
+    container_name: sockpuppetbrowser
+    restart: unless-stopped
+    hostname: sockpuppetbrowser
+    cap_add:
+      - SYS_ADMIN
+    environment:
+      - SCREEN_WIDTH=1920
+      - SCREEN_HEIGHT=1024

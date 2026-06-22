@@ -3,6 +3,21 @@
 **Size:** EU 43 = **US 9.5 (men)** = **UK 8.5 (men)**. Width **4E only** (2E not
 acceptable). MSRP ~**$155 / £145 / €160**.
 
+> ## 🚨 The real blocker (June 2026): shipping *into* Israel is disrupted
+> Following the June 2025 regional conflict, delivery into Israel is restricted —
+> this, not the stores, is why "doesn't ship to Israel" keeps happening:
+> - **eBay** has **paused** shipping to Israel (and other ME countries).
+> - **Amazon Global** resumed but is **heavily limited**: reduced flights, free
+>   shipping over $49 on a limited selection only, "very few products ship to
+>   Israel," and ~2/3 of third-party sellers don't ship internationally. The 4E
+>   is always a third-party listing, so its ship-to-IL odds are currently low.
+> - No Israeli local stock of the 4E found.
+>
+> **Without a forwarder, there is currently no reliable way to get the exact 4E
+> to Israel.** This is a *timing* problem (routes reopening) — so the right tool
+> is a **watch** that alerts you when shipping resumes with the 4E in stock. See
+> [`deal-finder/monitoring/`](./deal-finder/monitoring/watches.md).
+
 > **On verification:** retail sites and their help pages block automated access
 > (HTTP 403) here, and a country can only be *truly* confirmed at the checkout
 > country-selector, which I can't load. So below I separate **VERIFIED** facts
