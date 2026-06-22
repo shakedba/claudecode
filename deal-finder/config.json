@@ -35,6 +35,15 @@
 
   "retailers": [
     {
+      "id": "amazon_es",
+      "name": "Amazon.es (Spain) — PROVEN",
+      "currency": "EUR",
+      "ships_to_israel": true,
+      "shipping_cost": 15.0,
+      "url": "https://www.amazon.es/s?k=Brooks+Adrenaline+GTS+25+4E+extra+wide+hombre",
+      "notes": "You bought the 4E here before. On Amazon.es the 4E is a 3rd-party SELLER listing (width variants like 4E come/go with stock), shipped to Israel via AmazonGlobal with prepaid Import Fees Deposit. Best route for you; set a stock alert since the seller listing fluctuates. Save the exact ASIN from your order history to monitor it directly."
+    },
+    {
       "id": "runandbecome_uk",
       "name": "Run and Become (UK)",
       "currency": "GBP",

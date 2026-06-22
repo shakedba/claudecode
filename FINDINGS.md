@@ -32,16 +32,24 @@ landed cost** (VAT + customs).
 
 ## ⚠️ Reality check on the 4E width in Europe
 
-**"Extra Wide / 4E" is a US & UK width designation.** Mainland-EU stock
-(including **Amazon.de** and German/French running stores) is almost always only
-**Medium (D)** or at most **Wide (2E)** — the **4E is rarely carried in the EU**.
-So for the *exact* 4E width your most reliable European sources are **UK**
-retailers, and Amazon Europe is a long shot for 4E (great for 2E). Always confirm
-the **4E + EU43** variant is actually in the cart before paying.
+**"Extra Wide / 4E" is a US & UK width designation.** Mainland-EU retail stock is
+mostly **Medium (D)** / **Wide (2E)** — but **Amazon.es is the exception**: the 4E
+appears there as a **third-party marketplace seller listing** (this is how the
+buyer obtained it before). Those seller listings come and go with stock, so a
+**stock alert** matters more than a one-time search. Always confirm the **4E +
+EU43** variant is in the cart before paying.
 
-## Ranked EU/UK routes to Israel (you reported US shipping problems)
+## Ranked routes to Israel (4E only — 2E not acceptable)
 
-### 1. Run and Become (UK) — best for the *exact* 4E, ships to Israel
+### 0. Amazon.es (Spain) — PROVEN, do this first
+- **Already purchased here.** The 4E is a **3rd-party seller** listing on
+  Amazon.es, shipped to Israel via **AmazonGlobal** with a prepaid **Import Fees
+  Deposit** (customs handled, no US-shipping headaches).
+- Because it's a seller listing, stock fluctuates — pull the **exact ASIN from
+  your Amazon order history** and watch that page rather than re-searching.
+- Search: https://www.amazon.es/s?k=Brooks+Adrenaline+GTS+25+4E+extra+wide+hombre
+
+### 1. Run and Become (UK) — most reliable 4E stock, ships to Israel
 - Has an explicit **4E Extra Wide** product page for the GTS 25, and offers
   **international express shipping**. Confirm **Israel + UK 8.5 / EU 43** at
   checkout; duties/VAT (18%) payable on arrival.
@@ -61,7 +69,9 @@ the **4E + EU43** variant is actually in the cart before paying.
   prepaid). But Brooks 4E on Amazon is usually **third-party / sporadic** — verify
   the **4E + UK 8.5 / EU 43** variant is actually listed before relying on it.
   https://www.amazon.co.uk/s?k=Brooks+Adrenaline+GTS+25+4E+extra+wide
-- **Amazon.de / mainland-EU Amazon** — does **not** carry 4E (Medium/2E only). Skip.
+- **Amazon.es** — see option 0 above: 4E available via 3rd-party seller (proven).
+- **Amazon.de / other mainland-EU Amazon** — generally Medium/2E; 4E only if a
+  seller happens to list it (as on .es). Check, don't count on it.
 - **Amazon.com (US)** — 4E appears only via 3rd-party sellers; plus you had US
   shipping issues. Fallback only.
 
@@ -92,6 +102,7 @@ For a ~$155 shoe + ~$20 shipping into Israel, the **$75–$500 tier** applies:
 The engine computes this per-retailer with live prices and your FX rates.
 
 ## Sources
+- [Amazon.es — Brooks Adrenaline GTS 25 4E search](https://www.amazon.es/s?k=Brooks+Adrenaline+GTS+25+4E+extra+wide+hombre)
 - [Run and Become (UK) — Adrenaline GTS 25 4E Extra Wide](https://www.runandbecome.com/item/Brooks/Adrenaline-GTS-25-4E-Extra-Wide/84V4)
 - [SportsShoes.com — Brooks Adrenaline](https://www.sportsshoes.com/store/brooks-adrenaline)
 - [SportsShoes International Delivery & Taxes](https://support.sportsshoes.com/hc/en-gb/articles/5026410046098-International-Delivery-Taxes)
