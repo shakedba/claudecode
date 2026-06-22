@@ -1,115 +1,69 @@
-# Where to buy — Brooks Adrenaline GTS 25, Extra Wide (4E), EU 43
+# Brooks Adrenaline GTS 25 — Extra Wide (4E), EU 43 → Israel
 
-**Your size:** EU 43 = **US 9.5 (men)** = **UK 8.5 (men)**. Brooks lists this
-width as **"Extra Wide (4E)"** for men (the medium is "D", wide is "2E", extra
-wide is "4E"). MSRP is **~$155 USD / £145 GBP**.
+**Size:** EU 43 = **US 9.5 (men)** = **UK 8.5 (men)**. Width **4E only** (2E not
+acceptable). MSRP ~**$155 / £145 / €160**.
 
-> Snapshot researched 2026-06-22. Stock and prices on shoes move fast — the
-> [`deal-finder`](./deal-finder) engine in this repo re-checks these on a
-> schedule. Always confirm the **4E width + EU43** in the cart before paying.
+> **On verification:** retail sites and their help pages block automated access
+> (HTTP 403) here, and a country can only be *truly* confirmed at the checkout
+> country-selector, which I can't load. So below I separate **VERIFIED** facts
+> (from retailers' own published policies) from **UNCONFIRMED** (ships
+> internationally but Israel not listed — you confirm in the cart). Researched
+> 2026-06-22.
 
-## Use these existing tools first (don't reinvent discovery)
+## Ship-to-Israel verification matrix (4E carriers)
 
-Before relying on the custom engine, these off-the-shelf services already do
-price discovery/alerting well. Use them for finding the price; use the
-[`deal-finder`](./deal-finder) engine for the part they *don't* do — the **Israel
-landed cost** (VAT + customs).
+| Store | 4E stock | Ships to Israel? | Status |
+|---|---|---|---|
+| **Run and Become (UK)** | ✅ explicit 4E SKU | ❓ Intl via Global-e/DHL, IL not listed | **UNCONFIRMED** — verify in cart |
+| **SportsShoes.com (UK)** | ⚠️ verify (often 2E) | ❓ Ships outside EU, IL not listed | **UNCONFIRMED** — verify in cart |
+| **We Run Wild (US)** | ✅ confirmed | ❌ US only | **Forwarder** (Qwintry/Meest) |
+| **=PR= Run & Walk (US)** | ✅ confirmed | ❌ US only | **Forwarder** (Qwintry/Meest) |
+| **Holabird Sports (US)** | ✅ big 4E range | ❌ VERIFIED no intl shipping | **Forwarder** (Qwintry/Meest) |
+| **Brooks UK (official)** | ✅ 4E, UK 6–13 | ❌ VERIFIED UK+13 EU only, **not IL** | **Forwarder** (forward2me UK) |
+| **Profeet.co.uk** | ✅ 4E Wide page | ❓ not confirmed | **Forwarder** (forward2me UK) |
+| **Amazon.es** | ⚠️ 3rd-party seller | ❌ per your experience | **Forwarder** (ColisExpat/Meest) |
+| **Brooks US** | ✅ | ❌ VERIFIED US only | Forwarder |
+| **Road Runner / Zappos** | ✅ | ❌ VERIFIED US only | Forwarder |
+| **Amazon.de / mainland EU** | ❌ no 4E | ✅ ships IL | not useful (no 4E) |
 
-- **ShoesTrace AI** — https://shoestrace.com — price tracker + AI search across
-  17,000+ shoes. Search "Brooks Adrenaline GTS 25" for a live price ranking. Free.
-- **Running Shoe Score** — https://runningshoescore.com — running-shoe price
-  comparison + drop alerts, updated daily. Free.
-- **CamelCamelCamel** — https://camelcamelcamel.com — free Amazon price history +
-  alerts; pair with **Amazon Global** (ships the GTS 25 to Israel, customs prepaid).
-- **Keepa** — https://keepa.com — Amazon tracker across 11 marketplaces (good for
-  catching the 4E width on Amazon UK/DE). ~$20/mo for premium.
-- **changedetection.io** — https://changedetection.io — 30k★ open-source,
-  self-hosted page-change monitor with Playwright + JSON price extraction. Point it
-  at the bot-protected 4E retailer pages below if you want private monitoring.
+**Conclusion:** *No store could be verified to ship the exact 4E directly to
+Israel from here.* The two plausible direct options (Run and Become, SportsShoes)
+need a 30-second checkout check. Every other 4E source is confirmed domestic-only,
+so the **guaranteed** route is store + forwarder.
 
-> Note: none of these compute the all-in delivered-to-Israel price including 18%
-> VAT and customs tiers — that's exactly what `deal-finder` adds on top.
+## The guaranteed route: 4E store + a forwarder that delivers to Israel
 
-## ⚠️ Reality check on the 4E width in Europe
+Pick the cheapest in-stock 4E, ship to the forwarder's matching hub, forwarder
+delivers to Israel:
 
-**"Extra Wide / 4E" is a US & UK width designation.** Mainland-EU retail stock is
-mostly **Medium (D)** / **Wide (2E)** — but **Amazon.es is the exception**: the 4E
-appears there as a **third-party marketplace seller listing** (this is how the
-buyer obtained it before). Those seller listings come and go with stock, so a
-**stock alert** matters more than a one-time search. Always confirm the **4E +
-EU43** variant is in the cart before paying.
+| Forwarder | Hubs | To Israel | Pair with |
+|---|---|---|---|
+| **Qwintry** | US | ✅ documented (any IL city) | We Run Wild, =PR=, Holabird, Brooks US |
+| **Meest Shopping** | US + EU | ✅ documented | any US or EU store |
+| **forward2me** | US + **UK** | ✅ | Run and Become, SportsShoes, Brooks UK, Profeet |
+| **ColisExpat** | EU | ✅ | Amazon.es, Keller Sports |
 
-## Ranked routes to Israel (4E only — 2E not acceptable)
+## Recommended next action
+1. **Fastest if it works:** open the [Run and Become 4E page](https://www.runandbecome.com/item/Brooks/Adrenaline-GTS-25-4E-Extra-Wide/84V4),
+   add **4E / EU 43** to cart, select **Israel**. If it's offered → done (duties
+   prepaid). Same test on [SportsShoes](https://www.sportsshoes.com/store/brooks-adrenaline).
+2. **Guaranteed:** buy the 4E from any US store (e.g.
+   [=PR= Run & Walk](https://prrunandwalk.com/products/mens-brooks-adrenaline-gts-25-extra-wide-4e))
+   → ship to **Qwintry**/**Meest** → Israel.
 
-### 0. Amazon.es (Spain) — PROVEN, do this first
-- **Already purchased here.** The 4E is a **3rd-party seller** listing on
-  Amazon.es, shipped to Israel via **AmazonGlobal** with a prepaid **Import Fees
-  Deposit** (customs handled, no US-shipping headaches).
-- Because it's a seller listing, stock fluctuates — pull the **exact ASIN from
-  your Amazon order history** and watch that page rather than re-searching.
-- Search: https://www.amazon.es/s?k=Brooks+Adrenaline+GTS+25+4E+extra+wide+hombre
-
-### 1. Run and Become (UK) — most reliable 4E stock, ships to Israel
-- Has an explicit **4E Extra Wide** product page for the GTS 25, and offers
-  **international express shipping**. Confirm **Israel + UK 8.5 / EU 43** at
-  checkout; duties/VAT (18%) payable on arrival.
-- https://www.runandbecome.com/item/Brooks/Adrenaline-GTS-25-4E-Extra-Wide/84V4
-
-### 2. SportsShoes.com (UK) — reliably ships to Israel
-- Delivers to Israel (outside-EU orders supported); import duty + Israeli VAT
-  payable on arrival. Carries the Adrenaline GTS line — confirm 4E (EU stock
-  often only 2E).
-- Store: https://www.sportsshoes.com/store/brooks-adrenaline
-- Tax policy: https://support.sportsshoes.com/hc/en-gb/articles/5026410046098-International-Delivery-Taxes
-
-### 3. Amazon — only Amazon.co.uk is worth trying for 4E
-**4E only — 2E is not acceptable.** Checked across marketplaces:
-- **Amazon.co.uk** — the *only* Amazon likely to list **4E** (the UK uses the 4E
-  label). Ships to Israel via **AmazonGlobal** (~£5.79/kg + £4.39, customs
-  prepaid). But Brooks 4E on Amazon is usually **third-party / sporadic** — verify
-  the **4E + UK 8.5 / EU 43** variant is actually listed before relying on it.
-  https://www.amazon.co.uk/s?k=Brooks+Adrenaline+GTS+25+4E+extra+wide
-- **Amazon.es** — see option 0 above: 4E available via 3rd-party seller (proven).
-- **Amazon.de / other mainland-EU Amazon** — generally Medium/2E; 4E only if a
-  seller happens to list it (as on .es). Check, don't count on it.
-- **Amazon.com (US)** — 4E appears only via 3rd-party sellers; plus you had US
-  shipping issues. Fallback only.
-
-> Verdict: no Amazon marketplace *reliably* stocks the exact 4E/EU43. Amazon.co.uk
-> is the one to check; otherwise use the UK specialists (options 1, 2, and below).
-
-### 3b. Other reliable UK 4E specialists (£145)
-- **Profeet.co.uk** — dedicated "Adrenaline GTS 25 4E Wide" page (confirm Israel
-  shipping; may need a forwarder): https://shop.profeet.co.uk/footwear/wide-fit-running-shoes/brooks-adrenaline-gts-25-4e-wide-mens-running-shoes--black__866
-- **Brooks UK official** — lists 4E, UK 6–13: https://www.brooksrunning.com/en_gb/mens/road-running-shoes/adrenaline-gts-25/110454.html
-
-### 4. EU mainland stores (i-Run.fr, Keller Sports) — need a forwarder
-These big EU running stores **don't ship directly to Israel**, so route via a
-parcel forwarder with an EU address:
-- **i-Run.fr** (France) → forward with **Easy-Delivery** (FR address): https://www.easy-delivery.com/en/delivery/i-run-shoes-clothes-for-running-trail-fitness/israel
-- **Keller Sports** (Germany) → **ColisExpat** or **ShipGerman**: https://www.colisexpat.com/en/delivery-shipping/keller-sports/
-- Add the forwarder's quoted leg into that retailer's `shipping_cost` in
-  `deal-finder/config.json` and the engine folds it into the landed total.
-
-## What does *not* work
-- **Zalando** — does **not** deliver to Israel.
-- **i-Run / Keller Sports** — no *direct* Israel delivery (forwarder only).
-- (US fallback) **Road Runner Sports** US-only; **Zappos** no reliable direct IL.
-
-## Rough landed-cost math (illustrative)
-For a ~$155 shoe + ~$20 shipping into Israel, the **$75–$500 tier** applies:
-**VAT only (18%), no customs duty** → roughly **$175 × 1.18 ≈ $207 landed**.
-The engine computes this per-retailer with live prices and your FX rates.
+The [`deal-finder`](./deal-finder) engine encodes this matrix
+(`il_shipping` status per store + a `forwarders` block) and computes the all-in
+Israel landed cost (item + shipping/forwarder + 18% VAT + customs) per route.
 
 ## Sources
-- [Amazon.es — Brooks Adrenaline GTS 25 4E search](https://www.amazon.es/s?k=Brooks+Adrenaline+GTS+25+4E+extra+wide+hombre)
-- [Run and Become (UK) — Adrenaline GTS 25 4E Extra Wide](https://www.runandbecome.com/item/Brooks/Adrenaline-GTS-25-4E-Extra-Wide/84V4)
-- [SportsShoes.com — Brooks Adrenaline](https://www.sportsshoes.com/store/brooks-adrenaline)
-- [SportsShoes International Delivery & Taxes](https://support.sportsshoes.com/hc/en-gb/articles/5026410046098-International-Delivery-Taxes)
-- [Amazon.de — International Delivery Rates & Times](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GA6MMBQJBJ5QYUDW)
-- [AmazonGlobal Export Countries (incl. Israel)](https://www.amazon.com/gp/help/customer/display.html?nodeId=GCBBSZMUXA6U2P8R)
-- [Amazon reinstates free shipping to Israel (Ynet)](https://www.ynetnews.com/business/article/r1myupqea)
-- [i-Run.fr → Israel via Easy-Delivery](https://www.easy-delivery.com/en/delivery/i-run-shoes-clothes-for-running-trail-fitness/israel)
-- [Keller Sports → worldwide via ColisExpat](https://www.colisexpat.com/en/delivery-shipping/keller-sports/)
-- [Brooks Adrenaline GTS 25 (official)](https://www.brooksrunning.com/en_us/mens/shoes/road-running-shoes/adrenaline-gts-25/110454.html)
-- [Amazon US — Brooks Adrenaline GTS 25 (fallback)](https://www.amazon.com/Brooks-Adrenaline-Supportive-Running-Walking/dp/B0DZ425CX2)
+- [Brooks — countries we deliver to (EU list, no Israel)](https://emea-support.brooksrunning.com/hc/en-us/articles/360043393091-In-which-countries-and-regions-do-you-deliver)
+- [Brooks — can I ship outside the US? (US only)](https://support.brooksrunning.com/hc/en-us/articles/26207470882075-Can-I-ship-outside-of-the-United-States)
+- [Holabird Sports — international shipping policy (no direct intl)](https://www.holabirdsports.com/pages/international-shipping-policy)
+- [Run and Become — 4E Extra Wide SKU](https://www.runandbecome.com/item/Brooks/Adrenaline-GTS-25-4E-Extra-Wide/84V4)
+- [SportsShoes — International Delivery & Taxes](https://support.sportsshoes.com/hc/en-gb/articles/5026410046098-International-Delivery-Taxes)
+- [Qwintry — shipping to Israel](https://qwintry.com/en/il)
+- [Meest Shopping — EU & US → Israel](https://global.meest.shopping/il)
+- [forward2me — US & UK forwarding](https://www.forward2me.com/)
+- [ColisExpat — delivery to Israel](https://www.colisexpat.com/en/delivery-shipping/israel/)
+- [=PR= Run & Walk — 4E Extra Wide](https://prrunandwalk.com/products/mens-brooks-adrenaline-gts-25-extra-wide-4e)
+- [We Run Wild — 4E Extra Wide](https://www.werunwild.com/product/5695645/brooks/mens-adrenaline-gts-25-extra-wide-4e)
