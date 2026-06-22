@@ -41,10 +41,10 @@
       "name": "Run and Become (UK)",
       "currency": "GBP",
       "ships_to_israel": true,
-      "il_shipping": "unconfirmed_verify_at_checkout",
-      "shipping_cost": 20.0,
+      "il_shipping": "verified_no_direct",
+      "shipping_cost": 25.0,
       "url": "https://www.runandbecome.com/item/Brooks/Adrenaline-GTS-25-4E-Extra-Wide/84V4",
-      "notes": "4E CONFIRMED in stock (explicit SKU). Ships internationally via Global-e/DHL with duties prepaid in price. Israel NOT explicitly listed - add 4E/EU43 to cart and select Israel to confirm. If unavailable, route via forward2me UK hub."
+      "notes": "4E CONFIRMED in stock (explicit SKU). VERIFIED (user) does NOT ship to Israel -> route via forward2me UK hub. shipping_cost includes the forwarder leg. Best UK source to BUY the 4E; just needs a forwarder."
     },
     {
       "id": "sportsshoes_uk",

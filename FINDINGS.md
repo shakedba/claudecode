@@ -14,7 +14,7 @@ acceptable). MSRP ~**$155 / £145 / €160**.
 
 | Store | 4E stock | Ships to Israel? | Status |
 |---|---|---|---|
-| **Run and Become (UK)** | ✅ explicit 4E SKU | ❓ Intl via Global-e/DHL, IL not listed | **UNCONFIRMED** — verify in cart |
+| **Run and Become (UK)** | ✅ explicit 4E SKU | ❌ VERIFIED does **not** ship to IL | **Forwarder** (forward2me UK) |
 | **SportsShoes.com (UK)** | ⚠️ verify (often 2E) | ❓ Ships outside EU, IL not listed | **UNCONFIRMED** — verify in cart |
 | **We Run Wild (US)** | ✅ confirmed | ❌ US only | **Forwarder** (Qwintry/Meest) |
 | **=PR= Run & Walk (US)** | ✅ confirmed | ❌ US only | **Forwarder** (Qwintry/Meest) |
@@ -26,10 +26,12 @@ acceptable). MSRP ~**$155 / £145 / €160**.
 | **Road Runner / Zappos** | ✅ | ❌ VERIFIED US only | Forwarder |
 | **Amazon.de / mainland EU** | ❌ no 4E | ✅ ships IL | not useful (no 4E) |
 
-**Conclusion:** *No store could be verified to ship the exact 4E directly to
-Israel from here.* The two plausible direct options (Run and Become, SportsShoes)
-need a 30-second checkout check. Every other 4E source is confirmed domestic-only,
-so the **guaranteed** route is store + forwarder.
+**Conclusion (updated):** every 4E source checked so far — including Run and
+Become — is now confirmed **not** to ship the shoe directly to Israel
+(SportsShoes is the only unconfirmed straggler). Treat **direct-to-Israel for the
+4E as effectively unavailable** and use the **store + forwarder** route, which is
+documented and reliable. Stop hunting for a direct seller; pick the cheapest
+in-stock 4E and forward it.
 
 ## The guaranteed route: 4E store + a forwarder that delivers to Israel
 
