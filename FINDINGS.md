@@ -3,7 +3,30 @@
 **Size:** EU 43 = **US 9.5 (men)** = **UK 8.5 (men)**. Width **4E only** (2E not
 acceptable). MSRP ~**$155 / £145 / €160**.
 
-> ## 🚨 The real blocker (June 2026): shipping *into* Israel is disrupted
+> ## ✅ The one route with NO shipping problem: buy inside Israel
+
+Since the blocker is international shipping *into* Israel, a **domestic** purchase
+sidesteps all of it — no customs, no carrier disruption, no forwarder. There is an
+**official Brooks importer in Israel** plus local running stores:
+- **Brooks Israel (official importer)** — https://brooks.co.il
+- **Run-Way** (running specialist) — https://run-way.co.il/brand/brooks/
+- **Mashbir 365** — https://365mashbir.co.il/collections/brooks
+- **R.A.N Sport** (Sarona TLV)
+
+**Width caveat & the move:** Israeli shelves carry the Adrenaline mostly in
+**standard (D)** width; the **4E is unlikely to be in stock locally**. BUT the
+official importer can often **special-order a specific width (4E / EU43)** from
+Brooks' distribution even when it's not on the website. **This is the strongest
+no-forwarder option:** call/email **brooks.co.il** and **Run-Way**, give them the
+exact spec — *Adrenaline GTS 25, Extra Wide 4E, EU 43 / US 9.5* — and ask for a
+special order. If they can source it, it ships domestically with zero import
+hassle.
+
+> Action: contact brooks.co.il + Run-Way for a 4E special order. If neither can
+> source it, the only remaining paths are a forwarder or waiting for
+> international routes to normalize (the watch covers that).
+
+## 🚨 The real blocker (June 2026): shipping *into* Israel is disrupted
 > Following the June 2025 regional conflict, delivery into Israel is restricted —
 > this, not the stores, is why "doesn't ship to Israel" keeps happening:
 > - **eBay** has **paused** shipping to Israel (and other ME countries).

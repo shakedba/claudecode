@@ -37,6 +37,16 @@
 
   "retailers": [
     {
+      "id": "brooks_israel",
+      "name": "Brooks Israel (official importer) — DOMESTIC",
+      "currency": "ILS",
+      "ships_to_israel": true,
+      "il_shipping": "domestic_no_import",
+      "shipping_cost": 30.0,
+      "url": "https://brooks.co.il",
+      "notes": "Official Brooks importer IN Israel -> domestic delivery, no customs/forwarder. 4E unlikely on the shelf (Israel stocks standard D width), BUT ask them to SPECIAL-ORDER the 4E/EU43 from Brooks distribution. Best no-forwarder option. Also try Run-Way (run-way.co.il), Mashbir 365, R.A.N Sport. shipping_cost is local courier in ILS."
+    },
+    {
       "id": "runandbecome_uk",
       "name": "Run and Become (UK)",
       "currency": "GBP",
