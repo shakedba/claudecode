@@ -37,6 +37,16 @@
 
   "retailers": [
     {
+      "id": "shop4runners",
+      "name": "Shop4Runners (EU/Germany) — STRONG LEAD",
+      "currency": "EUR",
+      "ships_to_israel": true,
+      "il_shipping": "unconfirmed_likely_yes",
+      "shipping_cost": 20.0,
+      "url": "https://shop4runners.com/adrenaline-gts-25-extra-breit-4e-307471",
+      "notes": "BEST EU 4E LEAD: wide-fit specialist with the EXACT GTS 25 4E in stock at ~EUR144 (was 160). Their T&Cs explicitly address delivery OUTSIDE the EU (customer bears duties/taxes) -> Israel very likely supported; confirm by selecting Israel at checkout. Sister site sportwerk.com lists the same 4E. Stocks B/2E/4E widths."
+    },
+    {
       "id": "brooks_israel",
       "name": "Brooks Israel (official importer) — DOMESTIC",
       "currency": "ILS",

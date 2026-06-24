@@ -3,7 +3,29 @@
 **Size:** EU 43 = **US 9.5 (men)** = **UK 8.5 (men)**. Width **4E only** (2E not
 acceptable). MSRP ~**$155 / £145 / €160**.
 
-> ## ✅ The one route with NO shipping problem: buy inside Israel
+> ## 🎯 Best EU lead found: Shop4Runners (Germany)
+
+A German **wide-fit running specialist** that carries the **exact 4E** and whose
+terms explicitly contemplate **non-EU delivery** — the most promising direct EU
+route found so far:
+- **Brooks Adrenaline GTS 25 — extra breit (4E)**, in stock at **€143.99**
+  (was €160): https://shop4runners.com/adrenaline-gts-25-extra-breit-4e-307471
+- Stocks B / 2E / **4E** widths (true wide specialist).
+- **Their T&Cs explicitly cover delivery to countries *outside* the EU** (customer
+  bears duties/taxes) — so **Israel is very likely supported**, unlike Brooks/Run
+  and Become which flatly exclude it.
+- Sister site **Sportwerk.com** lists the same 4E.
+
+> Action: open the link, choose **EU 43**, go to checkout and select **Israel**.
+> If offered → this is your shoe (verify the final shipping line). If their site
+> blocks non-EU at checkout, email them — wide specialists often arrange it.
+
+Other EU stores checked: **Tradeinn/Runnerinn** (ships 190+ countries, likely
+incl. Israel, but Brooks may be brand-restricted and 4E for GTS25 not confirmed);
+**Deporvillage** (carries GTS24/25 but mostly **2E**, not 4E); **21RUN** (Brooks
+Adrenaline, 4E/Israel unconfirmed).
+
+## ✅ The route with NO shipping problem: buy inside Israel
 
 Since the blocker is international shipping *into* Israel, a **domestic** purchase
 sidesteps all of it — no customs, no carrier disruption, no forwarder. There is an
