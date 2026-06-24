@@ -1,0 +1,45 @@
+name: deal-finder
+
+# Runs the price monitor on a schedule and on demand.
+# Set a repo secret DEAL_WEBHOOK_URL (Slack/Discord/webhook) to receive alerts.
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # daily at 07:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests
+        working-directory: deal-finder
+        run: python -m unittest discover -s tests
+
+      - name: Scan deals
+        working-directory: deal-finder
+        env:
+          DEAL_WEBHOOK_URL: ${{ secrets.DEAL_WEBHOOK_URL }}
+        run: |
+          # Inject webhook from secret if provided, then run the scan.
+          if [ -n "$DEAL_WEBHOOK_URL" ]; then
+            python - <<'PY'
+import json, os
+cfg = json.load(open("config.json"))
+cfg.setdefault("alerts", {})["webhook_url"] = os.environ["DEAL_WEBHOOK_URL"]
+json.dump(cfg, open("config.json", "w"), indent=2)
+PY
+          fi
+          python -m dealfinder --json | tee scan-result.json
+
+      - name: Upload result
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-result
+          path: deal-finder/scan-result.json
