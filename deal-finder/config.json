@@ -107,14 +107,14 @@
       "notes": "Dedicated 4E Wide page. Israel shipping not confirmed; assume forward2me UK hub. shipping_cost includes forwarder leg."
     },
     {
-      "id": "amazon_es",
-      "name": "Amazon.es (Spain)",
-      "currency": "EUR",
-      "ships_to_israel": true,
+      "id": "amazon_any",
+      "name": "Amazon (US/UK/DE/ES/IT/FR)",
+      "currency": "USD",
+      "ships_to_israel": false,
       "il_shipping": "verified_no_direct",
       "shipping_cost": 25.0,
-      "url": "https://www.amazon.es/s?k=Brooks+Adrenaline+GTS+25+4E+extra+wide+hombre",
-      "notes": "4E appears via 3rd-party sellers. VERIFIED (user) does NOT ship to Israel -> ColisExpat/Meest from an EU hub. shipping_cost includes forwarder leg."
+      "url": "https://www.amazon.com/s?k=Brooks+Adrenaline+GTS+25+4E+extra+wide+9.5",
+      "notes": "Checked ALL marketplaces: AmazonGlobal export to Israel covers ONLY items shipped+sold by Amazon itself; THIRD-PARTY sellers are excluded. The 4E is always a 3rd-party listing -> no Amazon marketplace ships the 4E to Israel (this is why amazon.es failed). Exception to watch: a 4E/9.5 variant marked 'Ships from and Sold by Amazon' with a 'Deliver to Israel' option. Otherwise reach IL via forwarder."
     }
   ],
 

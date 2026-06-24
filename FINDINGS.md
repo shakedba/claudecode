@@ -18,6 +18,24 @@ acceptable). MSRP ~**$155 / £145 / €160**.
 > is a **watch** that alerts you when shipping resumes with the 4E in stock. See
 > [`deal-finder/monitoring/`](./deal-finder/monitoring/watches.md).
 
+## Amazon, every marketplace (US + EU) → Israel — checked
+
+| Amazon site | Ships to Israel? | Constraint | Delivers the **4E**? |
+|---|---|---|---|
+| **.com (US)** | ✅ resumed Apr 2026 (free >$49, ~1 month) | AmazonGlobal, **1st-party only** | ❌ |
+| **.de (Germany)** | ✅ AmazonGlobal items | **1st-party only** | ❌ |
+| **.co.uk** | ✅ | **explicitly Amazon-sold only, NOT 3rd-party** | ❌ |
+| **.es / .it / .fr** | ⚠️ some items | **1st-party only** | ❌ |
+
+**Decisive constraint:** AmazonGlobal export to Israel covers **only items shipped
+and sold by Amazon itself — third-party sellers are excluded**. The Brooks
+Adrenaline GTS 25 in **4E is always a third-party listing** (specific widths
+aren't Amazon's own stock). So **no Amazon marketplace ships the 4E to Israel** —
+it's the third-party exclusion, not the country. (This is almost certainly why
+the earlier Amazon.es attempt failed.) The *only* exception worth watching: a 4E
+/ size-9.5 variant that shows **"Ships from and Sold by Amazon"** *and* a
+**"Deliver to Israel"** option.
+
 > **On verification:** retail sites and their help pages block automated access
 > (HTTP 403) here, and a country can only be *truly* confirmed at the checkout
 > country-selector, which I can't load. So below I separate **VERIFIED** facts
